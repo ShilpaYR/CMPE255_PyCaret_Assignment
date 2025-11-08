@@ -4,6 +4,8 @@
 
 The data associated with each of the colab is present in the respective folders.
 
+## While running the colab, when prompted for uploading the file, upload through filepicker from the respective directory.
+
 ### For all the colabs other than Association Rules, use the following:
 1. Change the Google Colab runtime to 2025.07, to meet Python 3.11 requirement, because PyCaret and it's dependencies work with 3.11 and below. It's difficult to pin the python version in the colab to 3.11.
 
